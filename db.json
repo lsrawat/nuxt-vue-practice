@@ -1,0 +1,94 @@
+{
+  "posts-list": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "makes": [
+    {
+      "title": "AlfaRomeo",
+      "value": "alfa-romeo"
+    },
+    {
+      "title": "Aston Martin",
+      "value": "aston-martin"
+    }
+  ],
+  "models": [
+    {
+      "make": "aston-martin",
+      "models": [
+        {
+          "title": "DB11",
+          "value": "db11"
+        },
+        {
+          "title": "DBX",
+          "value": "dbx"
+        },
+        {
+          "title": "DBS",
+          "value": "dbs"
+        },
+        {
+          "title": "RapideS",
+          "value": "rapide-s"
+        },
+        {
+          "title": "Vanquish",
+          "value": "vanquish"
+        }
+      ]
+    },
+    {
+      "make": "alfa-romeo",
+      "models": [
+        {
+          "title": "4C",
+          "value": "4c"
+        },
+        {
+          "title": "Giulia",
+          "value": "giulia"
+        },
+        {
+          "title": "Giulia Quadrifoglio",
+          "value": "giulia-quadrifoglio"
+        },
+        {
+          "title": "Stelvio",
+          "value": "stelvio"
+        },
+        {
+          "title": "Stelvio Quadrifoglio",
+          "value": "stelvio-quadrifoglio"
+        }
+      ]
+    }
+  ],
+  "aston-martin": [
+    {
+      "id": "db11",
+      "title": "DB11",
+      "content": {}
+    },
+    {
+      "id": "dbx",
+      "title": "DBX"
+    },
+    {
+      "id": "dbs",
+      "title": "DBS"
+    },
+    {
+      "id": "rapideS",
+      "title": "RapideS"
+    },
+    {
+      "id": "vanquish",
+      "title": "Vanquish"
+    }
+  ]
+}
